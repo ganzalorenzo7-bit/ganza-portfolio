@@ -85,8 +85,7 @@ const devData = ref({
   fullBio:
     'Passionate frontend engineer from Kigali, Rwanda with expertise in Vue 3, JavaScript, and responsive design. I craft beautiful, performant web applications and love solving complex problems.',
 
-  // FIXED HERE
-  photo: '/me.JPG',
+  photo: './me.JPG',
 
   website: 'tourmyrwanda.vercel.app',
   location: 'Kigali, Rwanda',

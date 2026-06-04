@@ -66,7 +66,7 @@ const devData = ref({
   role: 'Frontend Developer',
   bio: 'Building scalable web experiences with Vue 3 & modern tools.',
   fullBio: 'Passionate frontend engineer from Kigali, Rwanda with expertise in Vue 3, JavaScript, and responsive design. I craft beautiful, performant web applications and love solving complex problems.',
-  photo: './public/me.JPG', 
+  photo: './photo: '/me.JPG', 
   website: 'tourmyrwanda.vercel.app',
   location: 'Kigali, Rwanda',
   email: 'ganzalorenzo@outlook.com'
